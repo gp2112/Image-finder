@@ -10,6 +10,7 @@ __It's only for study propose.__
 ![Image1](https://i.imgur.com/c1dVT8s.png)
 ![Image2](https://i.imgur.com/Lbpue7L.jpg)
 The project uses django 1.11 and BeuatifulSoup 4.
+__It does not support https connections__
 ## Download and Install:
 ```bash
 $ git clone https://github.com/gp2112/Image-finder.git
