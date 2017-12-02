@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-The%20Unlicense-lightgrey.svg)
 
 ## About:
-This is a website project that search for every images of a website and return them for the user.
+This is a website project that search for every images of a website page and return them for the user.
 __It's only for study propose.__
 
 ![Image1](https://i.imgur.com/c1dVT8s.png)
