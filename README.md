@@ -5,7 +5,7 @@
 
 ## About:
 This is a website project that search for every images of a website page and return them for the user.
-__It's only for study propose.__
+__It's only for study purpose.__
 
 ![Image1](https://i.imgur.com/c1dVT8s.png)
 ![Image2](https://i.imgur.com/Lbpue7L.jpg)
