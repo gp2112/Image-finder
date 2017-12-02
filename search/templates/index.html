@@ -1,0 +1,26 @@
+{% load static %}
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Image Finder - The Web Image Searcher</title>
+	<link href="https://fonts.googleapis.com/css?family=Russo+One" rel="stylesheet"> 
+	<link href="{% static 'css/index.css' %}" rel="stylesheet">
+</head>
+<body>
+	<div class="logo">
+		<a href="/"><h1>Image Finder</h1></a>
+	</div>
+	<div class="container">
+		<div class="search">
+			<form action="/" method="GET">
+				<input id="searcher" name="url" type="text" placeholder="ex: www.exemple.com">
+				<input type="submit" value="search">
+			</form>
+		</div>
+		
+		<h3 class="error">{{error}}</h3>
+
+	</div>
+</body>
+</html>
